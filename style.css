@@ -121,6 +121,21 @@ h2 {
     padding-left: 15px;
 }
 
+.dot-style-list li {
+    list-style-type: disc;
+}
+
+.page-navigation {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.page-control {
+    flex: 1;
+}
+
 .end-image {
     width: 50%;
     background: #ddd;
